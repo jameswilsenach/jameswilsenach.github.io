@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "James Wilsenach"
   avatar           : "profile.png"
-  bio              : "Interested in helping through understanding the language of the brain"
+  bio              : "Interested understanding consciousness and the language of the brain in order to help others"
   location         : "Oxford, United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ~"http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
