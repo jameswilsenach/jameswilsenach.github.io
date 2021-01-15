@@ -1,6 +1,6 @@
 ---
-title: "Paper Title Number 1"
-collection: Evolutionary fields can explain patterns of high-dimensional complexity in ecology
+title: "Evolutionary fields can explain patterns of high-dimensional complexity in ecology"
+collection: publications
 permalink: /publication/evofields
 excerpt: 'This paper examines the effect of interacting evolutionary and ecological time scales on the complexity of predator-prey systems. Specifically, how characteristic noise signatures can resemble common forms of noise seen in nature.<br/><img src='/images/evofields.png'>'
 date: 2017-04-04
