@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Multiple Segmenting Method for scaling exponent estimation in colored noise"
+excerpt: "This code is an implementation of the method derived in Rohani and Miramontes (Mathematical Medicine and Biology, 2004) for determining the alpha scaling exponent in coloured noise processes. Updated to more effectively work with realistically limited data sets.<br/><img src='/images/scaling.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This code is an implementation of the method derived in Rohani and Miramontes (Mathematical Medicine and Biology, 2004) for determining the alpha scaling exponent in coloured noise processes. Updated to more effectively work with realistically limited data sets using a multitaper approach to spectral analysis.
+
+
