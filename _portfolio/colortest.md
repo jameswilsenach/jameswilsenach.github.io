@@ -1,5 +1,5 @@
 ---
-title: "Non-parametric noise for colored noise in time series data (MATLAB)"
+title: "Non-parametric test for colored noise in time series data (MATLAB)"
 excerpt: "This [code](https://uk.mathworks.com/matlabcentral/fileexchange/58134-non-parametric-test-for-time-series-different-from-colored-noise?s_tid=prof_contriblnk) is an implementation of the method by Kennel and Isabelle (Physical Review A, 1982) to test the null hypothesis of the time series having ths same generating distribution as a colored noise process.![Wikimedia Commons](/images/Pink.noise.col.png "Wikimedia Commons")"
 permalink: /portfolio/colortest
 collection: portfolio
