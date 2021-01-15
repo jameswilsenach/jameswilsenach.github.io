@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications, Talks & Posters"
+title: "Publications, Talks &amp; Posters"
 permalink: /publications/
 author_profile: true
 ---
