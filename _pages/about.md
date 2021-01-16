@@ -28,10 +28,6 @@ Most recently, I completed an internship at Neuroelectrics, a neuromodulation ba
 In my spare time I am also interested in finding a way to translate between different neuroimaging modalities, namely from cortical Electroencephologram (EEG) to cortical (and possibly subcortical) functional Magnetic Resonance Imaging (fMRI). I believe new developments in this area could be of great use during surgery where high frequency, but low spatial resolution EEG monitoring is easy but more complex mapping of regional activity is difficult. Many current studies show limited amounts of translatability between these modalties, which I hope can be improved upon with new data and machine learning techniques.
 
 
-
-
-
-
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
