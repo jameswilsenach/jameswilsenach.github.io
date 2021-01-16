@@ -15,5 +15,5 @@ This code is an improved implementation of the original method by Rohani and Mir
 <iframe  title="Unibrowser" width="480" height="390" src="https://www.youtube.com/embed/WMOXZ_Clv7s" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[Download code here](https://uk.mathworks.com/matlabcentral/fileexchange/58165-multiple-segmenting-method-for-scaling-exponent-estimation-in-colored-noise?s_tid=prof_contriblnk)
+[Unibrowser Team Repository](https://github.com/michaelgoldendev/unibrowser)
 
