@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a DPhil candidate in Statistics at Oxford University working at the cross-section of neuroscience, biology and data science, with interests in machine learning, networks analysis and [brain-computer interaction](https://www.stx.ox.ac.uk/article/moritz-moeller-and-james-wilsenach-win-br41n.io-hackathon). My research is in biological complex systems with a focus on controlling for and explaining sources of inhomogeneous noise in biological networks, [time series](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.042401) and neuroimaging data using both supervised and unsupervised methods.
 
-Interests and projects
+Interests
 ======
 I have a wide range of interests across topics in science and philosophy including questions of consciousness, the [hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness), epistomology and ethics. I want to create real change that improves the lives of people through discovery of how the mind and body work. In my academic life, I have sought to obtain a wide range of skills in artificial intelligence, statistics and biological sciences, with degrees in bioinformatics, neuroinformatics, and machine learning.
 
@@ -19,6 +19,13 @@ I have pursued projects in designing assistive technologies, winning (as part of
 <i>Unibrowser final presentation at the Brain-Computer Interface Designers Hackathon in Bari</i>
 
 Most recently, I completed an internship at Neuroelectrics, a neuromodulation based engineering and research company interested in developing transcranial Electrical Stimulation (tES) based approaches to tackling a range of neurological diseases including epilepsy and Alzheimer's disease as well as Disorders of Consciousness (DOCs). I contributed to various areas of ongoing research including neuronal mass modelling, anatomical reconstruction of neurons and white matter tracts and unsupervised learning and analysis of pathological stereo EEG (sEEG) recordings. Neuroelectrics' flagship tES tool, [Stimweaver](https://www.neuroelectrics.com/solutions/modeling-services), provides an intelligent ways to develop stimulation montages that target specific brain areas, which they plan to utilise to enhance neurofunctionality and fight disease.
+
+<div class="video-container">
+<iframe  title="Laminar" width="480" height="390" src="https://youtube.com/embed/OBiVi9CArg8" frameborder="0" allowfullscreen></iframe>
+</div>
+<i>An early version of the laminar neuronal mass model, presented by Roser Sanchez-Todo at Neuroelectrics</i>
+
+In my spare time I, I am also interested in finding a way to translate between different neuroimaging modalities, namely from cortical Electroencephologram (EEG) to cortical (and possibly subcortical) functional Magnetic Resonance Imaging (fMRI). I believe new developments in this area could be of great use during surgery where high frequency, but low spatial resolution EEG monitoring is easy but more complex mapping of regional activity is difficult. Many current studies show limited amounts of translatability between these modalties, which I hope can be improved upon with new data and machine learning techniques.
 
 
 
