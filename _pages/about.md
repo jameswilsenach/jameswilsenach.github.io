@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a DPhil candidate in Statistics at Oxford University working at the cross-section of neuroscience, biology and data science, with interests in machine learning, networks analysis and [brain-computer interaction](https://www.stx.ox.ac.uk/article/moritz-moeller-and-james-wilsenach-win-br41n.io-hackathon). My research is in biological complex systems with a focus on controlling for and explaining sources of inhomogeneous noise in biological networks, [time series](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.042401) and neuroimaging data using both supervised and unsupervised methods.
+
 Interests and projects
 ======
 I have a wide range of interests across topics in science and philosophy including questions of consciousness, the [hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness), epistomology and ethics. I want to create real change that improves the lives of people through discovery of how the mind and body work. In my academic life, I have sought to obtain a wide range of skills in artificial intelligence, statistics and biological sciences, with degrees in bioinformatics, neuroinformatics, and machine learning.
