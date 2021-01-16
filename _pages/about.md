@@ -13,7 +13,12 @@ Interests and projects
 ======
 I have a wide range of interests across topics in science and philosophy including questions of consciousness, the [hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness), epistomology and ethics. I want to create real change that improves the lives of people through discovery of how the mind and body work. In my academic life, I have sought to obtain a wide range of skills in artificial intelligence, statistics and biological sciences, with degrees in bioinformatics, neuroinformatics, and machine learning.
 
-In my own time I have pursued projects in designing assistive technologies, winning (as part of team Unibrowser) the Brain Designers Prize at the IEEE Systems, Man and Cybernetics Conference at the BCI Designers Hackathon in Bari in 2019.
+I have pursued projects in designing assistive technologies, winning (as part of team [Unibrowser](https://www.br41n.io/Bari-2019#projects)) the Brain Designers Prize at the IEEE Systems, Man and Cybernetics Conference at the (BCI Designers Hackathon) in Bari in 2019, organised by g.tec neurotechnology. Unibrowser is a User Interface (UI) navigation tool, designed to help users with a limited range of motion, to  navigate complex UI systems more easily, through a series of dynamically selected, simple to answer questions.
+
+![Presenting Unibrowser to the Judges at IEEE SMC](/images/pres.png)
+<i>Unibrowser final presentation at the Brain-Computer Interface Designers Hackathon in Bari<\i>
+
+Most recently, I completed an internship at Neuroelectrics
 
 
 
