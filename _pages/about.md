@@ -18,7 +18,9 @@ I have pursued projects in designing assistive technologies, winning (as part of
 ![Presenting Unibrowser to the Judges at IEEE SMC](/images/pres.png)
 <i>Unibrowser final presentation at the Brain-Computer Interface Designers Hackathon in Bari</i>
 
-Most recently, I completed an internship at Neuroelectrics
+Most recently, I completed an internship at Neuroelectrics, a neuromodulation based engineering and research company interested in developing transcranial Electrical Stimulation (tES) based approaches to tackling a range of neurological diseases including epilepsy and Alzheimer's disease as well as Disorders of Consciousness (DOCs). I contributed to various areas of ongoing research including neuronal mass modelling, anatomical reconstruction of neurons and white matter tracts and unsupervised learning and analysis of pathological stereo EEG (sEEG) recordings. Neuroelectrics' flagship tES tool, [Stimweaver](https://www.neuroelectrics.com/solutions/modeling-services), provides an intelligent ways to develop stimulation montages that target specific brain areas, which they plan to utilise to enhance neurofunctionality and fight disease.
+
+
 
 
 
