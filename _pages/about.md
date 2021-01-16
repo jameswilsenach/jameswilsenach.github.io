@@ -16,7 +16,7 @@ I have a wide range of interests across topics in science and philosophy includi
 I have pursued projects in designing assistive technologies, winning (as part of team [Unibrowser](https://www.br41n.io/Bari-2019#projects)) the Brain Designers Prize at the IEEE Systems, Man and Cybernetics Conference at the (BCI Designers Hackathon) in Bari in 2019, organised by g.tec neurotechnology. Unibrowser is a User Interface (UI) navigation tool, designed to help users with a limited range of motion, to  navigate complex UI systems more easily, through a series of dynamically selected, simple to answer questions.
 
 ![Presenting Unibrowser to the Judges at IEEE SMC](/images/pres.png)
-<i>Unibrowser final presentation at the Brain-Computer Interface Designers Hackathon in Bari<\i>
+<i>Unibrowser final presentation at the Brain-Computer Interface Designers Hackathon in Bari</i>
 
 Most recently, I completed an internship at Neuroelectrics
 
