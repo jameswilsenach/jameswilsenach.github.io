@@ -7,15 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a DPhil candidate in Statistics at Oxford University working at the cross-section of neuroscience, biology and data science, with interests in machine learning, networks analysis and [brain-computer interaction](https://www.stx.ox.ac.uk/article/moritz-moeller-and-james-wilsenach-win-br41n.io-hackathon). My research is in biological complex systems with a focus on controlling for and explaining sources of inhomogeneous noise in biological networks, [time series](https://pubmed.ncbi.nlm.nih.gov/28505840/) and neuroimaging data using both supervised and unsupervised methods.
-
-A data-driven personal website
+I am a DPhil candidate in Statistics at Oxford University working at the cross-section of neuroscience, biology and data science, with interests in machine learning, networks analysis and [brain-computer interaction](https://www.stx.ox.ac.uk/article/moritz-moeller-and-james-wilsenach-win-br41n.io-hackathon). My research is in biological complex systems with a focus on controlling for and explaining sources of inhomogeneous noise in biological networks, [time series](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.042401) and neuroimaging data using both supervised and unsupervised methods.
+Interests and projects
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I have a wide range of interests across topics in science and philosophy including questions of consciousness, the [hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness), epistomology and ethics. I want to create real change that improves the lives of people through discovery of how the mind and body work. In my academic life, I have sought to obtain a wide range of skills in artificial intelligence, statistics and biological sciences, with degrees in bioinformatics, neuroinformatics, and machine learning.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+In my own time I have pursued projects in designing assistive technologies, winning (as part of team Unibrowser) the Brain Designers Prize at the IEEE Systems, Man and Cybernetics Conference at the BCI Designers Hackathon in Bari in 2019.
 
-Getting started
+
+
+
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -47,3 +49,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
