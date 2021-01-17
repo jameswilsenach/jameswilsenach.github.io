@@ -1,7 +1,7 @@
 ---
 title: "Unibrowser: Assistive UI Navigation with Brain-Computer Interfaces (Python/MATLAB)"
 excerpt: "This [project](https://uk.mathworks.com/matlabcentral/fileexchange/58165-multiple-segmenting-method-for-scaling-exponent-estimation-in-colored-noise?s_tid=prof_contriblnk) is an implementation of the method derived in Rohani and Miramontes (Mathematical Medicine and Biology, 2004) for determining the alpha scaling exponent in coloured noise processes. Updated to more effectively work with realistically limited data sets.
-[![Foo](unimoritz.png)](https://github.com/michaelgoldendev/unibrowser)
+[![Foo](/images/unimoritz.png)](https://github.com/michaelgoldendev/unibrowser)
 "
 permalink: /portfolio/unibrowser
 collection: portfolio
