@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Please
+Please see latest CV below.
+
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=/files/James_Wilsenach_CV_Latest.pdf" width="500" height="375">
 
 <!-- Education
 ======
