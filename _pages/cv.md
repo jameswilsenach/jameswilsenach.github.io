@@ -9,10 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Please see latest CV below.
+Please see my latest CV below.
 
 <embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=/files/James_Wilsenach_CV_Latest.pdf" width="500" height="375">
+
+<object width="400" height="500" type="application/pdf" data="/files/James_Wilsenach_CV_Latest.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+    <p>Sorry, there was an error in viewing the PDF.</p>
+</object>
+
+[Or Download It here](/files/James_Wilsenach_CV_Latest.pdf)
 
 <!-- Education
 ======
