@@ -15,7 +15,7 @@ Please see my latest CV below.
     <p>Sorry, there was an error in viewing the PDF.</p>
 </object>
 
-[Or Download It here](/files/James_Wilsenach_CV_Latest.pdf)
+[Or Download It Here](/files/James_Wilsenach_CV_Latest.pdf)
 
 <!-- Education
 ======
