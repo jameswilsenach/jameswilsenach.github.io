@@ -9,7 +9,8 @@ tags:
   - Brain-Computer Interfaces
   - Project
 ---
-This code is an improved implementation of the original method by Rohani and Miramontes (Mathematical Medicine and Biology, 2004) for determining the alpha scaling exponent in coloured noise processes. Updated to more effectively work with realistically sample size limited data sets using a multitaper approach to spectral analysis.
+Unibrowser: Assistive UI Navigation with Brain-Computer Interfaces (Python/MATLAB)"
+excerpt: "Unibrowser is a BCI-based User Interface (UI) navigation tool, originally designed for the BR41N.IO BCI Designers Hackathon in Bari Italy, hosted by g.tec neurotechnology and part of the IEEE Systems, Man and Cybernetics Conference. Unibrowser is an assistive technology for helping users with limited maneauverability navigate complex UIs such as websites or Operating Systems using only mental push commands. Unibrowser is designed to intelligently select simple yes/no questions for the user to answer, thereby narrowing down to users desired destination in only a few steps. Unibrowser works using a simple Bayesian framework but has many avenues for improvement and expansion (see [repository notes](https://github.com/michaelgoldendev/unibrowser)). [Unibrowser](https://www.br41n.io/Bari-2019#projects) won the BCI Designer's Brain Prize.
 
 <div class="video-container">
 <iframe  title="Unibrowser" width="480" height="390" src="https://www.youtube.com/embed/WMOXZ_Clv7s" frameborder="0" allowfullscreen></iframe>
