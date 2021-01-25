@@ -13,5 +13,3 @@ This paper examines the effect of interacting evolutionary and ecological time s
 The paper also led to a conference talk at Models in Population Dynamics and Ecology (MPDE) in 2017 on the applicability of field dynamics ideas in the population sciences and its use in other forms of complex data analysis (such as the social sciences), the slides for which can be found [here](/files/MPDE_Conference.pdf).
 
 [Download paper here](http://jameswilsenach.github.io/files/evofields.pdf)
-
-Recommended citation: James Wilsenach, Pietro Landi, Cang Hui. (2017). "Evolutionary fields can explain patterns of high-dimensional complexity in ecology." <i>Physical Review E</i>. 95(4).
