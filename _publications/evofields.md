@@ -10,6 +10,8 @@ citation: 'James Wilsenach, Pietro Landi, Cang Hui. (2017). &quot;Evolutionary f
 ---
 This paper examines the effect of interacting evolutionary and ecological time scales on the complexity of predator-prey systems. Specifically, how characteristic chaotic population dynamics driven by evolutionary forces can resemble common forms of noise seen in nature.<br/><img src='/images/evofields.png'>
 
+The paper also led to a conference talk at Models in Population Dynamics and Ecology (MPDE) in 2017 on the applicability of field dynamics ideas in the population sciences and its use in other forms of complex data analysis (such as the social sciences), the slides for which can be found [here](/files/MPDE_Conference.pdf).
+
 [Download paper here](http://jameswilsenach.github.io/files/evofields.pdf)
 
 Recommended citation: James Wilsenach, Pietro Landi, Cang Hui. (2017). "Evolutionary fields can explain patterns of high-dimensional complexity in ecology." <i>Physical Review E</i>. 95(4).
