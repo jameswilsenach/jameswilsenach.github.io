@@ -1,7 +1,7 @@
 ---
 title: "Unibrowser: Assistive UI Navigation with Brain-Computer Interfaces (Python/MATLAB)"
 excerpt: "Unibrowser is a BCI-based User Interface (UI) navigation tool, originally designed for the BR41N.IO BCI Designers Hackathon in Bari Italy, hosted by g.tec neurotechnology and part of the IEEE Systems, Man and Cybernetics Conference. Unibrowser is an assistive technology for helping users with limited maneauverability navigate complex UIs such as websites or Operating Systems using only mental push commands. Unibrowser is designed to intelligently select simple yes/no questions for the user to answer, thereby narrowing down to users desired destination in only a few steps. Unibrowser works using a simple Bayesian framework but has many avenues for improvement and expansion ([see Repository Notes](https://github.com/michaelgoldendev/unibrowser)). Unibrowser won the BCI Designer's [Brain Prize](https://www.br41n.io/Bari-2019#projects).  
-[![Foo](/images/unimoritz.png)](/portfolio/unibrowser)
+[![Moritz Moeller (team member) and the Unibrowser Unicorn!](/images/unimoritz.png)](/portfolio/unibrowser)
 "
 permalink: /portfolio/unibrowser
 collection: portfolio
