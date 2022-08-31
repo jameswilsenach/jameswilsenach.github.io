@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a recent DPhil graduate in Statistics at Oxford University working at the cross-section of [neuroscience](http://dynamic-brains.com/team), [biology](https://www.pharm.ox.ac.uk/research/emptage-group-synaptic-pharmacology-group) and [data science](http://opig.stats.ox.ac.uk//), with interests in machine learning, networks analysis and [brain-computer interaction](https://www.stx.ox.ac.uk/article/moritz-moeller-and-james-wilsenach-win-br41n.io-hackathon). My research is in biological complex systems with a focus on controlling for and explaining sources of inhomogeneous noise in biological networks, [time series](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.042401) and neural data using both supervised and unsupervised methods.
+I am a recent DPhil graduate in Statistics at Oxford University working at the cross-section of [neuroscience](http://dynamic-brains.com/team), [biology](https://www.pharm.ox.ac.uk/research/emptage-group-synaptic-pharmacology-group) and [data science](http://opig.stats.ox.ac.uk//), with interests in machine learning, networks analysis and [brain-computer interaction](https://www.stx.ox.ac.uk/article/moritz-moeller-and-james-wilsenach-win-br41n.io-hackathon). My research is in biological complex systems with a focus on controlling for and explaining sources of inhomogeneous noise in biological networks, [time series](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.042401) and [neural data](https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00454-2) using both supervised and unsupervised methods.
 
 Interests
 ======
